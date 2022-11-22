@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isaquebarbos 
-- meu email de contato é isaque.silva.barbosa@escola.pr.gov.br
+- meu email de contato é (isaque.silva.barbosa@escola.pr.gov.br)
 - 👀 I’m interested in em aprender progamar novas linguagens
 - 🌱 I’m currently learning aprendendo a programar novas linguagens de JavaScript e Scratch
 - 
